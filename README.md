@@ -18,4 +18,8 @@ https://github.com/Wenmoon-Studios/aoz-sc-nft-staking
 
 ## NFT middle man SC
 
-TBD
+https://github.com/Wenmoon-Studios/aoz-sc-middleman
+
+## Summoning SC
+
+https://github.com/Wenmoon-Studios/aoz-sc-summoning
