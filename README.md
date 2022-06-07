@@ -23,3 +23,7 @@ https://github.com/Wenmoon-Studios/aoz-sc-middleman
 ## Summoning SC
 
 https://github.com/Wenmoon-Studios/aoz-sc-summoning
+
+## Land Chest Sale SC
+
+https://github.com/Wenmoon-Studios/aoz-sc-land-chest-sale
